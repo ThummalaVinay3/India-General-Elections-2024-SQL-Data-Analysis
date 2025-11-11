@@ -68,8 +68,10 @@ Through SQL queries and data exploration, we identify the top-performing allianc
   JOIN statewise_results
   JOIN states
 
-  ----
 
+
+
+-----
 ### 🏁 Conclusion
 This project demonstrates how SQL can be used for real-world political data analysis — from raw datasets to insightful election analytics.
 It’s a perfect example of integrating data cleaning, aggregation, and query optimization to derive meaningful outcomes from public datasets.
